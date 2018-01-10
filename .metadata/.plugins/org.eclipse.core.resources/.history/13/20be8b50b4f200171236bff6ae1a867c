@@ -1,0 +1,91 @@
+package com.springthymeleaf.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name = "PDF_DETAILS")
+public class DocDaitails {
+
+	@Id
+	@GenericGenerator(strategy = "native", name = "noteGen")
+	@GeneratedValue(strategy = GenerationType.AUTO, generator = "noteGen")
+	@Column(name = "DOC_ID")
+	private int docId;
+
+	@Column(name = "DOC_NAME")
+	private String docName;
+
+	@Column(name = "DOC_TYPE")
+	private String docType;
+
+	@Column(name = "DOC_AMOUNT")
+	private boolean docAmount;
+
+	@Column(name = "TEX")
+	private boolean tex;
+
+	@Column(name = "TEX_TYPE")
+	private String texsType;
+
+	public int getDocId() {
+		return docId;
+	}
+
+	public void setDocId(int docId) {
+		this.docId = docId;
+	}
+
+	public String getDocName() {
+		return docName;
+	}
+
+	public void setDocName(String docName) {
+		this.docName = docName;
+	}
+
+	public String getDocType() {
+		return docType;
+	}
+
+	public void setDocType(String docType) {
+		this.docType = docType;
+	}
+
+	public boolean isDocAmount() {
+		return docAmount;
+	}
+
+	public void setDocAmount(boolean docAmount) {
+		this.docAmount = docAmount;
+	}
+
+	public boolean isTex() {
+		return tex;
+	}
+
+	public void setTex(boolean tex) {
+		this.tex = tex;
+	}
+
+	public String getTexsType() {
+		return texsType;
+	}
+
+	public void setTexsType(String texsType) {
+		this.texsType = texsType;
+	}
+
+	@Override
+	public String toString() {
+		return "PdfDaitails [docId=" + docId + ", docName=" + docName + ", docType=" + docType + ", docAmount="
+				+ docAmount + ", tex=" + tex + ", texsType=" + texsType + "]";
+	}
+
+}

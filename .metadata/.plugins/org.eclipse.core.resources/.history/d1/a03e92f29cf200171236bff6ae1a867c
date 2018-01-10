@@ -1,0 +1,26 @@
+package com.springthymeleaf.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name = "PDF_DETAILS")
+public class PdfDaitails {
+	
+
+}
+
+@Entity
+@Table(name = "NOTE")
+public class Note {
+
+	@Id
+	@GenericGenerator(strategy = "native", name = "noteGen")
+	@GeneratedValue(strategy = GenerationType.AUTO, generator = "noteGen")
+	@Column(name = "NOTE_ID")

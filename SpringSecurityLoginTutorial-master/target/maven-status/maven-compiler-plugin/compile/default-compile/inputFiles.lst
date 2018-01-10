@@ -1,0 +1,10 @@
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/model/Role.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/repository/UserRepository.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/DemoApplication.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/model/User.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/configuration/WebMvcConfig.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/configuration/SecurityConfiguration.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/repository/RoleRepository.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/controller/LoginController.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/service/UserService.java
+/home/bridgelabz/Om/Thymeleaf/SpringSecurityLoginTutorial-master/src/main/java/com/example/service/UserServiceImpl.java

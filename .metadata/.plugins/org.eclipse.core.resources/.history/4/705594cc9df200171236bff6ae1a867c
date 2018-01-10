@@ -1,0 +1,39 @@
+package com.springthymeleaf.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name = "PDF_DETAILS")
+public class PdfDaitails {
+	
+	@Id
+	@GenericGenerator(strategy = "native", name = "noteGen")
+	@GeneratedValue(strategy = GenerationType.AUTO, generator = "noteGen")
+	@Column(name = "PDF_ID")
+	private int docId;
+	
+	@Column(name="DOC_TYPE")
+	private String docName;
+	
+	@Column(name="DOC_TYPE")
+	private String docType;
+	
+	private boolean docAmount;
+	
+	private boolean tex;
+	
+	private String texsType;
+	
+	
+	
+
+}
+
+	

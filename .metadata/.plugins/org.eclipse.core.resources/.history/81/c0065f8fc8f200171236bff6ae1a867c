@@ -1,0 +1,133 @@
+function toogleNav() {
+	var sideNav = document.getElementById("sideNavContent").style.width;
+	if (sideNav == "0px") {
+		openNav();
+	} else {
+		closeNav();
+	}
+}
+
+function openNav() {
+
+	if (screen.width > 1000) {
+		document.getElementById("sideNavContent").style.width = "300px";
+		document.getElementById("noteContainer").style.marginLeft = "250px";
+	} else
+		document.getElementById("sideNavContent").style.width = "300px";
+}
+
+function closeNav() {
+	document.getElementById("sideNavContent").style.width = "0px";
+	document.getElementById("noteContainer").style.marginLeft = "0px";
+}
+
+function deleteNote(noteId) {
+	console.log("note id is :- " + noteId)
+	$.ajax({
+		type : 'DELETE',
+		url : "delete/" + noteId
+	});
+}
+
+function saveToken() {
+	var token = $('#jwt').val();
+	console.log(token);
+	if (token != null) {
+		localStorage.setItem('token', token);
+	}
+}
+
+function getUrlData (urlToSend) {
+	$.ajax({
+		method : 'POST',
+		url : 'user/getUrlData',
+		headers : {
+			'url' : urlToSend,
+			'token' :  localStorage.getItem('token')
+		}
+	});
+}
+
+
+/*
+function openNoteModel() {
+	$.ajax({
+		type : 'POST',
+		url : "update",
+		success : function(data) {
+			$("#noteModalHolder").html(data);
+			$("#noteModal").modal("show");
+		}
+	});
+}
+*/
+
+function fbAsyncSocialShare(note) {
+	FB.init({
+		appId : '127036578094516',
+		status : true,
+		cookie : true,
+		xfbml : true,
+		version : 'v2.4'
+	});
+
+	FB.ui({
+		method : 'share_open_graph',
+		action_type : 'og.likes',
+		action_properties : JSON.stringify({
+			object : {
+				'og:title' : note.title,
+				'og:description' :note.description
+			}
+		})
+	}, function(response) {
+		if (response && !response.error_message) {
+			alert('Posting completed.');
+		} else {
+			alert('Error while posting');
+		}
+	});
+};
+
+var urls=[];
+$scope.checkUrl=function(note) {
+	var urlPattern=/(http|ftp|https):\/\/[\w-]+(\.[\w-]+)+([\w.,@?^=%&amp;:\/~+#-]*[\w@?^=%&amp;\/~+#-])?/gi;
+	var url=note.description.match(urlPattern);
+	var link=[];
+	
+	if(note.size==undefined){
+		note.size=0;
+		note.url=[];
+		note.link=[];
+	}
+
+	if((url!=null || url!=undefined) && note.size<url.length){
+		for(var i=0;i<url.length;i++){
+			
+			note.url[i]=url[i];
+			
+			addlabel = getUrlData(url[i]);
+			
+			addlabel.then(function(response) {
+				
+				var responseData=response.data;
+				if(responseData.title.length>25){
+					responseData.title=responseData.title.substr(0,25)+'..';
+				}
+				link[note.size]={
+						title:responseData.title,
+						url:note.url[note.size],
+						imageUrl:responseData.imageUrl,
+						domain:responseData.domain
+						}
+			
+				note.link[note.size]=link[note.size];
+				note.size=note.size+1;
+		
+		},function(response){
+			
+		});
+	}
+}
+}
+

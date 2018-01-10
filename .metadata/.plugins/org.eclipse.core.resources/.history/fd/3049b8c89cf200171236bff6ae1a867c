@@ -1,0 +1,5 @@
+package com.springthymeleaf.model;
+
+public class PdfDaitails {
+
+}

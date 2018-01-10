@@ -1,0 +1,900 @@
+
+Dec 26, 2017 17:09:55.80 NEW SESSION
+Dec 26, 2017 17:09:55.80 [9938:9978:1226/170955.800496:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:09:55.84 Created new window in existing browser session.
+Dec 26, 2017 17:17:10.03 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 26, 2017 17:17:10.11 Created new window in existing browser session.
+Dec 26, 2017 17:25:10.37 [11008:11048:1226/172510.377143:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:25:10.41 Created new window in existing browser session.
+Dec 26, 2017 17:27:58.47 [11441:11480:1226/172758.476181:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:27:58.49 Created new window in existing browser session.
+Dec 26, 2017 17:29:35.26 [11758:11798:1226/172935.264325:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:29:35.29 Created new window in existing browser session.
+Dec 26, 2017 17:32:21.93 [12069:12109:1226/173221.935212:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:32:21.96 Created new window in existing browser session.
+Dec 26, 2017 17:34:40.03 [12418:12458:1226/173440.029847:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:34:40.04 Created new window in existing browser session.
+Dec 26, 2017 17:35:03.08 [12532:12571:1226/173503.089312:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:35:03.16 Created new window in existing browser session.
+Dec 26, 2017 17:37:14.07 [13111:13151:1226/173714.078992:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:37:14.09 Created new window in existing browser session.
+Dec 26, 2017 17:38:49.02 [13401:13441:1226/173849.029676:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:38:49.05 Created new window in existing browser session.
+Dec 26, 2017 17:40:14.00 [13673:13713:1226/174014.004075:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:40:14.03 Created new window in existing browser session.
+Dec 26, 2017 17:43:19.39 [14030:14069:1226/174319.398431:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:43:19.42 Created new window in existing browser session.
+Dec 26, 2017 17:48:53.10 [14400:14439:1226/174853.106232:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:48:53.13 Created new window in existing browser session.
+Dec 26, 2017 17:59:22.61 [15042:15082:1226/175922.612687:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 17:59:22.65 Created new window in existing browser session.
+Dec 26, 2017 18:01:44.64 [15346:15385:1226/180144.644581:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 18:01:44.64 Created new window in existing browser session.
+Dec 26, 2017 18:03:41.59 [15656:15695:1226/180341.590653:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 18:03:41.61 Created new window in existing browser session.
+Dec 26, 2017 18:07:56.91 [15963:16002:1226/180756.916844:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 18:07:56.93 Created new window in existing browser session.
+Dec 26, 2017 18:36:34.42 [17609:17648:1226/183634.423983:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 18:36:34.51 Created new window in existing browser session.
+Dec 26, 2017 19:41:11.53 [20868:20907:1226/194111.535748:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 26, 2017 19:41:11.58 Created new window in existing browser session.
+
+Dec 27, 2017 09:46:39.99 NEW SESSION
+Dec 27, 2017 09:46:39.99 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 09:46:40.11 Created new window in existing browser session.
+Dec 27, 2017 10:06:33.18 [5783:5823:1227/100633.180395:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 10:06:33.26 Created new window in existing browser session.
+Dec 27, 2017 11:09:33.85 [8994:9033:1227/110933.852248:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 11:09:33.88 Created new window in existing browser session.
+Dec 27, 2017 11:10:46.79 [9233:9272:1227/111046.790712:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 11:10:46.82 Created new window in existing browser session.
+Dec 27, 2017 11:52:30.82 [12412:12454:1227/115230.819289:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 11:52:30.87 Created new window in existing browser session.
+Dec 27, 2017 12:33:36.22 [15027:15068:1227/123336.226694:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 12:33:36.28 Created new window in existing browser session.
+Dec 27, 2017 12:41:06.30 [15905:15944:1227/124106.300758:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 12:41:06.36 Created new window in existing browser session.
+Dec 27, 2017 12:52:35.08 [16761:16800:1227/125235.089393:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 12:52:35.14 Created new window in existing browser session.
+Dec 27, 2017 12:55:39.90 [17208:17248:1227/125539.899743:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 12:55:39.94 Created new window in existing browser session.
+Dec 27, 2017 12:58:03.51 [17577:17617:1227/125803.518607:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 12:58:03.57 Created new window in existing browser session.
+Dec 27, 2017 13:04:03.99 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 13:04:04.00 [18249:18289:1227/130404.007943:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 13:04:04.06 Created new window in existing browser session.
+Dec 27, 2017 13:06:00.45 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 13:06:00.56 Created new window in existing browser session.
+Dec 27, 2017 13:18:49.44 [19880:19919:1227/131849.444625:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 13:18:49.48 Created new window in existing browser session.
+Dec 27, 2017 14:26:50.03 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 14:26:50.04 [22245:22285:1227/142650.045371:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 14:26:50.08 Created new window in existing browser session.
+Dec 27, 2017 14:55:33.19 [24128:24167:1227/145533.192140:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 14:55:33.26 Created new window in existing browser session.
+Dec 27, 2017 14:56:11.05 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 14:56:11.06 [24351:24397:1227/145611.067500:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 14:56:11.24 Created new window in existing browser session.
+Dec 27, 2017 14:58:03.73 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 14:58:03.83 Created new window in existing browser session.
+
+Dec 27, 2017 15:00:32.34 NEW SESSION
+Dec 27, 2017 15:00:32.34 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 15:00:32.36 [25034:25074:1227/150032.368706:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 15:00:32.42 Created new window in existing browser session.
+Dec 27, 2017 15:07:25.40 [25594:25636:1227/150725.400876:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 15:07:25.43 Created new window in existing browser session.
+Dec 27, 2017 15:18:18.13 [26660:26699:1227/151818.130398:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 15:18:18.17 Created new window in existing browser session.
+Dec 27, 2017 15:23:19.08 [27133:27172:1227/152319.079776:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 15:23:19.10 Created new window in existing browser session.
+Dec 27, 2017 15:46:13.57 [28715:28754:1227/154613.572517:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 15:46:13.60 Created new window in existing browser session.
+Dec 27, 2017 16:07:15.78 [30052:30091:1227/160715.787519:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 16:07:15.82 Created new window in existing browser session.
+Dec 27, 2017 16:17:20.14 [30761:30800:1227/161720.142644:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 16:17:20.17 Created new window in existing browser session.
+Dec 27, 2017 16:26:31.26 [31456:31495:1227/162631.267018:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 16:26:31.28 Created new window in existing browser session.
+Dec 27, 2017 16:28:33.30 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 16:28:33.31 [31820:31859:1227/162833.314169:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 16:28:33.35 Created new window in existing browser session.
+Dec 27, 2017 16:42:24.72 [713:753:1227/164224.729501:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 16:42:24.76 Created new window in existing browser session.
+Dec 27, 2017 17:16:11.24 [3399:3441:1227/171611.241941:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:16:11.31 Created new window in existing browser session.
+Dec 27, 2017 17:17:08.18 [3665:3705:1227/171708.184962:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:17:08.20 Created new window in existing browser session.
+Dec 27, 2017 17:23:01.98 [4277:4316:1227/172301.986071:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:23:02.02 Created new window in existing browser session.
+Dec 27, 2017 17:23:57.27 [4513:4552:1227/172357.273883:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:23:57.31 Created new window in existing browser session.
+Dec 27, 2017 17:25:40.21 [4819:4858:1227/172540.217041:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:25:40.26 Created new window in existing browser session.
+Dec 27, 2017 17:28:06.41 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 17:28:06.42 [5196:5235:1227/172806.423697:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:28:06.45 Created new window in existing browser session.
+Dec 27, 2017 17:29:40.65 [5478:5517:1227/172940.655818:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:29:40.69 Created new window in existing browser session.
+Dec 27, 2017 17:30:42.57 [5725:5765:1227/173042.574491:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:30:42.58 Created new window in existing browser session.
+Dec 27, 2017 17:31:53.35 [5970:6009:1227/173153.358332:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:31:53.36 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 17:31:53.39 Created new window in existing browser session.
+Dec 27, 2017 17:34:08.50 [6326:6365:1227/173408.508440:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:34:08.52 Created new window in existing browser session.
+Dec 27, 2017 17:35:07.93 [6622:6661:1227/173507.934396:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:35:07.96 Created new window in existing browser session.
+Dec 27, 2017 17:37:02.51 [6984:7023:1227/173702.517349:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:37:02.54 Created new window in existing browser session.
+Dec 27, 2017 17:39:07.32 [7333:7372:1227/173907.320603:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:39:07.37 Created new window in existing browser session.
+Dec 27, 2017 17:44:44.79 [8246:8285:1227/174444.793941:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 17:44:44.81 Created new window in existing browser session.
+Dec 27, 2017 18:28:15.39 [9722:9761:1227/182815.393200:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:28:15.42 Created new window in existing browser session.
+Dec 27, 2017 18:29:04.90 [9991:10030:1227/182904.902491:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:29:04.92 Created new window in existing browser session.
+Dec 27, 2017 18:30:43.08 [10279:10318:1227/183043.080864:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:30:43.11 Created new window in existing browser session.
+Dec 27, 2017 18:32:03.41 [10520:10559:1227/183203.412090:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:32:03.45 Created new window in existing browser session.
+Dec 27, 2017 18:33:06.60 [10674:10714:1227/183306.607675:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:33:06.63 Created new window in existing browser session.
+Dec 27, 2017 18:33:56.34 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 18:33:56.35 [10958:10997:1227/183356.351160:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:33:56.35 Created new window in existing browser session.
+Dec 27, 2017 18:34:51.77 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 18:34:51.86 Created new window in existing browser session.
+Dec 27, 2017 18:35:56.42 [11463:11503:1227/183556.420069:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:35:56.45 Created new window in existing browser session.
+Dec 27, 2017 18:38:15.83 [11959:11999:1227/183815.833136:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:38:15.87 Created new window in existing browser session.
+Dec 27, 2017 18:41:38.90 [12437:12476:1227/184138.901795:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:41:38.93 Created new window in existing browser session.
+Dec 27, 2017 18:44:08.98 [12770:12809:1227/184408.987176:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:44:09.02 Created new window in existing browser session.
+Dec 27, 2017 18:46:52.66 [13096:13135:1227/184652.666180:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:46:52.69 Created new window in existing browser session.
+Dec 27, 2017 18:58:57.94 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 27, 2017 18:58:57.94 [14294:14333:1227/185857.949086:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:58:57.99 Created new window in existing browser session.
+Dec 27, 2017 18:59:51.61 [14460:14499:1227/185951.611917:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 18:59:51.61 Created new window in existing browser session.
+Dec 27, 2017 19:33:07.67 [16787:16827:1227/193307.675641:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 19:33:07.73 Created new window in existing browser session.
+Dec 27, 2017 19:34:18.14 [17074:17113:1227/193418.145851:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 19:34:18.20 Created new window in existing browser session.
+Dec 27, 2017 19:35:47.30 [17368:17411:1227/193547.301419:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 19:35:47.36 Created new window in existing browser session.
+Dec 27, 2017 19:38:21.54 [17837:17878:1227/193821.547812:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 19:38:21.58 Created new window in existing browser session.
+Dec 27, 2017 19:57:59.04 [19048:19088:1227/195759.042585:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 27, 2017 19:57:59.07 Created new window in existing browser session.
+
+Dec 28, 2017 09:35:36.76 NEW SESSION
+Dec 28, 2017 09:35:36.76 [3969:4009:1228/093536.757194:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 09:35:36.87 Created new window in existing browser session.
+Dec 28, 2017 09:41:21.37 [4521:4560:1228/094121.379071:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 09:41:21.41 Created new window in existing browser session.
+Dec 28, 2017 09:44:57.32 [4976:5015:1228/094457.325404:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 09:44:57.36 Created new window in existing browser session.
+Dec 28, 2017 09:47:34.21 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 09:54:03.22 [6169:6208:1228/095403.227538:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 09:54:03.26 Created new window in existing browser session.
+Dec 28, 2017 10:04:31.17 [6994:7033:1228/100431.176107:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:04:31.21 Created new window in existing browser session.
+Dec 28, 2017 10:06:54.68 [7291:7331:1228/100654.687459:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:06:54.70 Created new window in existing browser session.
+Dec 28, 2017 10:08:12.59 [7532:7571:1228/100812.595668:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:08:12.63 Created new window in existing browser session.
+Dec 28, 2017 10:12:15.75 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 10:12:15.76 [7960:7999:1228/101215.759955:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:12:15.81 Created new window in existing browser session.
+Dec 28, 2017 10:16:23.45 [8308:8347:1228/101623.457372:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:16:23.50 Created new window in existing browser session.
+Dec 28, 2017 10:18:03.45 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 10:18:03.47 [8589:8628:1228/101803.479400:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:18:03.53 Created new window in existing browser session.
+Dec 28, 2017 10:26:48.45 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 10:26:48.52 Created new window in existing browser session.
+Dec 28, 2017 10:28:15.24 [9398:9437:1228/102815.246944:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:28:15.25 Created new window in existing browser session.
+Dec 28, 2017 10:32:53.77 [9784:9823:1228/103253.778201:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:32:53.81 Created new window in existing browser session.
+Dec 28, 2017 10:34:05.57 [10043:10082:1228/103405.578784:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:34:05.60 Created new window in existing browser session.
+Dec 28, 2017 10:35:13.40 [10294:10333:1228/103513.404985:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:35:13.43 Created new window in existing browser session.
+Dec 28, 2017 10:36:56.12 [10556:10595:1228/103656.120294:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 10:36:56.15 Created new window in existing browser session.
+Dec 28, 2017 11:05:37.81 [5662:5702:1228/110537.811038:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 11:18:40.19 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 11:18:40.24 Created new window in existing browser session.
+Dec 28, 2017 11:23:12.27 [12057:12096:1228/112312.279387:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:23:12.28 Created new window in existing browser session.
+Dec 28, 2017 11:32:48.01 [12832:12871:1228/113248.014034:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:32:48.05 Created new window in existing browser session.
+Dec 28, 2017 11:34:49.72 [13140:13179:1228/113449.723739:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:34:49.76 Created new window in existing browser session.
+Dec 28, 2017 11:37:41.27 [13520:13559:1228/113741.269996:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:37:41.28 Created new window in existing browser session.
+Dec 28, 2017 11:47:05.74 [14233:14272:1228/114705.739984:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:47:05.78 Created new window in existing browser session.
+Dec 28, 2017 11:47:05.86 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 11:47:05.88 [14333:14333:1228/114705.888495:ERROR:broker_posix.cc(43)] Invalid node channel message
+Dec 28, 2017 11:48:13.82 [14516:14555:1228/114813.823376:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:48:13.83 Created new window in existing browser session.
+Dec 28, 2017 11:49:16.17 [14749:14790:1228/114916.175348:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:49:16.21 Created new window in existing browser session.
+Dec 28, 2017 11:50:44.94 [15026:15065:1228/115044.948400:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:50:44.95 Created new window in existing browser session.
+Dec 28, 2017 11:55:25.77 [15390:15429:1228/115525.777477:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:55:25.77 Created new window in existing browser session.
+Dec 28, 2017 11:56:50.87 [15637:15676:1228/115650.876096:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:56:50.90 Created new window in existing browser session.
+Dec 28, 2017 11:57:31.24 [15866:15905:1228/115731.241788:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:57:31.26 Created new window in existing browser session.
+Dec 28, 2017 11:58:27.99 [16087:16126:1228/115827.993857:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 11:58:28.01 Created new window in existing browser session.
+Dec 28, 2017 12:00:36.49 [16390:16431:1228/120036.497499:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:00:36.52 Created new window in existing browser session.
+Dec 28, 2017 12:02:36.74 [16674:16713:1228/120236.745449:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:02:36.77 Created new window in existing browser session.
+Dec 28, 2017 12:03:36.74 [16923:16962:1228/120336.748195:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:03:36.75 Created new window in existing browser session.
+Dec 28, 2017 12:05:08.11 [17173:17212:1228/120508.116011:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:05:08.12 Created new window in existing browser session.
+Dec 28, 2017 12:06:04.69 [17399:17438:1228/120604.697998:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:06:04.73 Created new window in existing browser session.
+Dec 28, 2017 12:06:46.63 [17613:17654:1228/120646.634287:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:06:46.67 Created new window in existing browser session.
+Dec 28, 2017 12:09:57.28 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 12:09:57.29 [17964:18003:1228/120957.292822:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:09:57.32 Created new window in existing browser session.
+Dec 28, 2017 12:11:28.60 [18229:18268:1228/121128.608451:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:11:28.63 Created new window in existing browser session.
+Dec 28, 2017 12:18:07.08 [18678:18717:1228/121807.084709:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:18:07.10 Created new window in existing browser session.
+Dec 28, 2017 12:18:58.08 [18916:18955:1228/121858.089454:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:18:58.09 Created new window in existing browser session.
+Dec 28, 2017 12:20:53.37 [19176:19215:1228/122053.377680:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:20:53.38 Created new window in existing browser session.
+Dec 28, 2017 12:23:40.20 [19453:19492:1228/122340.206185:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:23:40.22 Created new window in existing browser session.
+Dec 28, 2017 12:26:28.38 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 12:26:28.38 [19779:19818:1228/122628.389322:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:26:28.43 Created new window in existing browser session.
+Dec 28, 2017 12:32:09.17 [20240:20279:1228/123209.174962:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:32:09.23 Created new window in existing browser session.
+Dec 28, 2017 12:34:04.08 [20500:20539:1228/123404.083611:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:34:04.11 Created new window in existing browser session.
+Dec 28, 2017 12:36:52.85 [20856:20895:1228/123652.854536:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:36:52.87 Created new window in existing browser session.
+Dec 28, 2017 12:45:38.87 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 12:45:38.90 [21328:21367:1228/124538.904619:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:45:38.93 Created new window in existing browser session.
+Dec 28, 2017 12:46:32.12 [21597:21636:1228/124632.125447:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:46:32.13 Created new window in existing browser session.
+Dec 28, 2017 12:49:08.61 [5710:5710:1228/124908.611441:ERROR:gles2_cmd_decoder.cc(5414)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Dec 28, 2017 12:52:07.12 [22132:22171:1228/125207.123539:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 12:52:07.17 Created new window in existing browser session.
+Dec 28, 2017 12:58:04.88 [5662:5702:1228/125804.887453:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 13:01:44.53 [22852:22892:1228/130144.531904:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:01:44.56 Created new window in existing browser session.
+Dec 28, 2017 13:03:36.14 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 13:03:36.17 [23191:23230:1228/130336.178346:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:03:36.23 Created new window in existing browser session.
+Dec 28, 2017 13:06:35.08 [23557:23596:1228/130635.089250:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:06:35.13 Created new window in existing browser session.
+Dec 28, 2017 13:11:42.59 [24011:24050:1228/131142.590923:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:11:42.63 Created new window in existing browser session.
+Dec 28, 2017 13:13:53.32 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 13:13:53.34 [24283:24322:1228/131353.341367:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:13:53.40 Created new window in existing browser session.
+Dec 28, 2017 13:16:37.26 [24598:24637:1228/131637.266458:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:16:37.30 Created new window in existing browser session.
+Dec 28, 2017 13:18:40.16 [24938:24977:1228/131840.162729:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:18:40.21 Created new window in existing browser session.
+Dec 28, 2017 13:21:18.61 [25265:25304:1228/132118.618185:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:21:18.67 Created new window in existing browser session.
+Dec 28, 2017 13:24:38.84 [25614:25653:1228/132438.841411:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 13:24:38.89 Created new window in existing browser session.
+Dec 28, 2017 14:15:35.15 [27057:27097:1228/141535.155094:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 14:15:35.19 Created new window in existing browser session.
+Dec 28, 2017 14:17:30.37 [27364:27403:1228/141730.377191:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 14:17:30.41 Created new window in existing browser session.
+Dec 28, 2017 14:21:11.04 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 14:21:11.04 [27790:27829:1228/142111.042141:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 14:21:11.26 Created new window in existing browser session.
+Dec 28, 2017 14:47:44.64 [28517:28556:1228/144744.641214:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 14:47:44.67 Created new window in existing browser session.
+Dec 28, 2017 15:05:27.46 [29709:29749:1228/150527.463472:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:05:27.50 Created new window in existing browser session.
+Dec 28, 2017 15:10:32.81 [29962:30002:1228/151032.814741:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:10:32.86 Created new window in existing browser session.
+Dec 28, 2017 15:17:58.21 [30521:30560:1228/151758.215507:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:17:58.25 Created new window in existing browser session.
+Dec 28, 2017 15:18:21.43 [30742:30781:1228/151821.437326:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:18:21.49 Created new window in existing browser session.
+Dec 28, 2017 15:22:13.49 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 15:22:13.50 [31168:31209:1228/152213.503915:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:22:13.56 Created new window in existing browser session.
+Dec 28, 2017 15:24:11.88 [31556:31595:1228/152411.885250:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:24:11.93 Created new window in existing browser session.
+Dec 28, 2017 15:43:35.04 [32251:32291:1228/154335.047605:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:43:35.11 Created new window in existing browser session.
+Dec 28, 2017 15:50:16.96 [32679:32719:1228/155016.961633:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:50:17.02 Created new window in existing browser session.
+Dec 28, 2017 15:52:08.79 [541:581:1228/155208.797845:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:52:08.83 Created new window in existing browser session.
+Dec 28, 2017 15:54:09.95 [5662:5702:1228/155409.953466:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 15:54:30.12 [837:884:1228/155430.126435:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:54:30.20 Created new window in existing browser session.
+Dec 28, 2017 15:58:41.00 [1264:1305:1228/155840.999895:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 15:58:41.03 Created new window in existing browser session.
+Dec 28, 2017 16:02:56.13 [1697:1736:1228/160256.130397:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:02:56.17 Created new window in existing browser session.
+Dec 28, 2017 16:07:14.03 [2099:2158:1228/160714.030123:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:07:14.08 Created new window in existing browser session.
+Dec 28, 2017 16:08:34.50 [5662:5702:1228/160834.508355:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 16:08:47.41 [5662:5702:1228/160847.416913:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 16:08:52.50 [5662:5702:1228/160852.504564:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 16:09:10.95 [5662:5702:1228/160910.951406:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 16:09:48.94 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 16:09:48.95 [2512:2553:1228/160948.953076:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:09:48.99 Created new window in existing browser session.
+Dec 28, 2017 16:12:25.05 [2912:2981:1228/161225.050935:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:12:25.09 Created new window in existing browser session.
+Dec 28, 2017 16:17:51.02 [3473:3513:1228/161751.019903:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:17:51.09 Created new window in existing browser session.
+Dec 28, 2017 16:20:15.01 [3823:3863:1228/162015.015072:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:20:15.07 Created new window in existing browser session.
+Dec 28, 2017 16:28:44.68 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 28, 2017 16:28:44.70 [4498:4537:1228/162844.703610:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:28:44.75 Created new window in existing browser session.
+Dec 28, 2017 16:33:42.68 [5044:5086:1228/163342.684627:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:33:42.73 Created new window in existing browser session.
+Dec 28, 2017 16:37:05.46 [5316:5356:1228/163705.467862:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:37:05.50 Created new window in existing browser session.
+Dec 28, 2017 16:39:20.59 [5539:5579:1228/163920.590057:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:39:20.61 Created new window in existing browser session.
+Dec 28, 2017 16:45:14.73 [6238:6279:1228/164514.738218:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:45:14.76 Created new window in existing browser session.
+Dec 28, 2017 16:46:42.03 [6417:6457:1228/164642.033141:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:46:42.07 Created new window in existing browser session.
+Dec 28, 2017 16:47:43.70 [6585:6638:1228/164743.702090:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:47:43.73 Created new window in existing browser session.
+Dec 28, 2017 16:48:38.15 [6936:6975:1228/164838.151592:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:48:38.18 Created new window in existing browser session.
+Dec 28, 2017 16:50:46.60 [7295:7337:1228/165046.604713:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:50:46.62 Created new window in existing browser session.
+Dec 28, 2017 16:52:11.72 [7483:7524:1228/165211.722972:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 16:52:11.76 Created new window in existing browser session.
+Dec 28, 2017 16:58:17.89 [5662:5662:1228/165817.897772:ERROR:media_internals.cc(102)] Cannot get RenderProcessHost
+Dec 28, 2017 16:59:07.97 [5662:5662:1228/165907.976548:ERROR:CONSOLE(405)] "Uncaught (in promise) TypeError: Cannot read property 'indexOf' of null", source: chrome-devtools://devtools/bundled/inspector.js (405)
+Dec 28, 2017 17:07:35.83 [5662:5702:1228/170735.832450:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:07:38.20 [5662:5702:1228/170738.201470:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:07:40.87 [5662:5702:1228/170740.872159:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:07:43.09 [5662:5702:1228/170743.092351:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:08:02.00 [5662:5702:1228/170802.005161:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:08:05.86 [5662:5702:1228/170805.861028:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:08:06.53 [5662:5702:1228/170806.534644:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:08:06.99 [5662:5702:1228/170806.996986:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:08:09.11 [5662:5702:1228/170809.110533:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:08:13.15 [5662:5702:1228/170813.158350:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:08:36.77 [5662:5702:1228/170836.770960:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:08:43.18 [5662:5702:1228/170843.186543:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:09:31.40 [5662:5702:1228/170931.407440:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:09:34.48 [5662:5702:1228/170934.481479:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:09:35.43 [5662:5702:1228/170935.432391:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 17:10:47.57 [5662:5702:1228/171047.578719:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:13:08.55 [1:36:1228/171308.550359:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+Dec 28, 2017 17:14:09.08 [5662:5702:1228/171409.085706:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 17:28:02.17 [5662:5662:1228/172802.178735:ERROR:CONSOLE(3196)] "Request Storage.trackCacheStorageForOrigin failed. {"code":-32602,"message":":// is not a valid URL"}", source: chrome-devtools://devtools/bundled/inspector.js (3196)
+Dec 28, 2017 17:28:03.13 [5662:5662:1228/172803.136890:ERROR:CONSOLE(3196)] "Request Storage.untrackCacheStorageForOrigin failed. {"code":-32602,"message":":// is not a valid URL"}", source: chrome-devtools://devtools/bundled/inspector.js (3196)
+Dec 28, 2017 17:36:21.32 [10898:10937:1228/173621.320675:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 17:36:21.35 Created new window in existing browser session.
+Dec 28, 2017 18:04:04.59 [5662:5702:1228/180404.597240:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 18:11:53.47 [5662:5702:1228/181153.473995:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 18:11:53.47 [5662:5702:1228/181153.475963:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 18:13:54.17 [5662:5702:1228/181354.170142:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 18:13:58.07 [5662:5702:1228/181358.072281:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Dec 28, 2017 18:13:59.27 [5662:5702:1228/181359.274448:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Dec 28, 2017 18:17:51.00 [14062:14101:1228/181751.003032:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 18:17:51.04 Created new window in existing browser session.
+Dec 28, 2017 18:19:02.54 [5662:5662:1228/181902.541305:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 1114
+Dec 28, 2017 18:59:23.08 [16353:16392:1228/185923.089493:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 28, 2017 18:59:23.12 Created new window in existing browser session.
+
+Dec 29, 2017 10:13:11.64 NEW SESSION
+Dec 29, 2017 10:13:11.64 [4580:4620:1229/101311.646117:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 10:13:11.72 Created new window in existing browser session.
+Dec 29, 2017 10:54:26.32 [6379:6418:1229/105426.329094:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 10:54:26.33 Created new window in existing browser session.
+Dec 29, 2017 11:16:29.43 [7645:7684:1229/111629.433985:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 11:16:29.43 Created new window in existing browser session.
+Dec 29, 2017 11:17:40.60 [7948:7987:1229/111740.602435:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 11:17:40.63 Created new window in existing browser session.
+Dec 29, 2017 11:37:44.77 [8985:9024:1229/113744.778393:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 11:37:44.82 Created new window in existing browser session.
+Dec 29, 2017 13:21:03.89 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 29, 2017 13:21:03.97 Created new window in existing browser session.
+Dec 29, 2017 13:22:42.53 [15315:15354:1229/132242.529971:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Dec 29, 2017 13:22:42.57 Created new window in existing browser session.
+Dec 29, 2017 13:23:13.03 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Dec 29, 2017 13:23:13.15 Created new window in existing browser session.
+
+Jan 02, 2018 11:47:29.26 NEW SESSION
+Jan 02, 2018 11:47:29.26 [5853:5893:0102/114729.265851:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 11:47:29.28 Created new window in existing browser session.
+Jan 02, 2018 12:07:39.62 [6984:7023:0102/120739.629178:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 12:07:39.66 Created new window in existing browser session.
+Jan 02, 2018 12:11:38.84 [7317:7356:0102/121138.849145:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 12:11:38.88 Created new window in existing browser session.
+Jan 02, 2018 12:15:40.95 [7726:7766:0102/121540.957258:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 12:15:40.96 Created new window in existing browser session.
+Jan 02, 2018 12:28:56.84 [8919:8959:0102/122856.848774:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 12:28:56.92 Created new window in existing browser session.
+Jan 02, 2018 12:33:02.81 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 02, 2018 12:33:02.83 [9457:9496:0102/123302.831683:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 12:33:02.89 Created new window in existing browser session.
+Jan 02, 2018 12:58:03.19 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 02, 2018 12:58:03.28 Created new window in existing browser session.
+Jan 02, 2018 15:09:51.64 [13874:13913:0102/150951.641931:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 15:09:51.67 Created new window in existing browser session.
+Jan 02, 2018 15:35:48.77 [15434:15474:0102/153548.773552:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 15:35:48.79 Created new window in existing browser session.
+Jan 02, 2018 15:58:33.70 [16942:16982:0102/155833.700564:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 15:58:33.75 Created new window in existing browser session.
+Jan 02, 2018 16:46:38.43 [18910:18949:0102/164638.437194:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 16:46:38.49 Created new window in existing browser session.
+Jan 02, 2018 16:48:53.84 [19197:19236:0102/164853.843823:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 16:48:53.90 Created new window in existing browser session.
+Jan 02, 2018 16:58:46.46 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 02, 2018 16:58:46.48 [19771:19811:0102/165846.483774:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 16:58:46.53 Created new window in existing browser session.
+Jan 02, 2018 17:02:13.41 [20094:20134:0102/170213.410644:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 17:02:13.46 Created new window in existing browser session.
+Jan 02, 2018 17:42:47.92 [22162:22202:0102/174247.921878:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 17:42:47.98 Created new window in existing browser session.
+Jan 02, 2018 17:52:05.08 [22673:22713:0102/175205.079139:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 17:52:05.12 Created new window in existing browser session.
+Jan 02, 2018 18:12:03.37 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 02, 2018 18:12:03.38 [23999:24038:0102/181203.381970:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 18:12:03.41 Created new window in existing browser session.
+Jan 02, 2018 18:56:28.69 [25822:25862:0102/185628.694233:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 02, 2018 18:56:28.69 Created new window in existing browser session.
+Jan 02, 2018 19:18:30.09 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 02, 2018 19:18:30.17 Created new window in existing browser session.
+
+Jan 03, 2018 09:32:25.35 NEW SESSION
+Jan 03, 2018 09:32:25.35 [4606:4646:0103/093225.354604:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 09:32:25.46 Created new window in existing browser session.
+Jan 03, 2018 09:58:38.53 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 03, 2018 09:58:38.63 Created new window in existing browser session.
+Jan 03, 2018 10:16:03.63 [8034:8074:0103/101603.639451:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 10:16:03.68 Created new window in existing browser session.
+Jan 03, 2018 11:10:40.95 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 03, 2018 11:10:40.96 [12064:12104:0103/111040.967529:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 11:10:41.02 Created new window in existing browser session.
+Jan 03, 2018 12:09:30.01 [14241:14280:0103/120930.013844:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 12:09:30.05 Created new window in existing browser session.
+Jan 03, 2018 13:22:59.22 [18550:18590:0103/132259.225295:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 13:22:59.26 Created new window in existing browser session.
+Jan 03, 2018 13:40:45.35 [20099:20138:0103/134045.353209:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 13:40:45.38 Created new window in existing browser session.
+Jan 03, 2018 14:48:01.01 [21836:21875:0103/144801.019746:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 14:48:01.07 Created new window in existing browser session.
+Jan 03, 2018 15:25:31.37 [24241:24281:0103/152531.378617:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 15:25:31.42 Created new window in existing browser session.
+Jan 03, 2018 15:42:08.21 [25313:25353:0103/154208.210498:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 15:42:08.26 Created new window in existing browser session.
+Jan 03, 2018 15:56:38.24 [26384:26424:0103/155638.246981:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 03, 2018 15:56:38.27 Created new window in existing browser session.
+
+Jan 04, 2018 10:05:29.22 NEW SESSION
+Jan 04, 2018 10:05:29.22 [5354:5394:0104/100529.222744:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:05:29.30 Created new window in existing browser session.
+Jan 04, 2018 10:48:52.23 [8739:8778:0104/104852.232398:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:48:52.27 Created new window in existing browser session.
+Jan 04, 2018 10:49:25.58 [8856:8895:0104/104925.581067:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:49:25.63 Created new window in existing browser session.
+Jan 04, 2018 10:49:35.94 [8968:9007:0104/104935.944584:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:49:36.01 Created new window in existing browser session.
+Jan 04, 2018 10:50:32.05 [9096:9135:0104/105032.052073:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:50:32.11 Created new window in existing browser session.
+Jan 04, 2018 10:51:09.22 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 10:52:15.82 [9798:9837:0104/105215.824002:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:52:15.83 Created new window in existing browser session.
+Jan 04, 2018 10:58:22.89 [10251:10291:0104/105822.890431:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 10:58:22.92 Created new window in existing browser session.
+Jan 04, 2018 11:16:47.00 [12154:12193:0104/111647.006663:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:16:47.02 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 11:16:47.07 Created new window in existing browser session.
+Jan 04, 2018 11:20:32.72 [12545:12584:0104/112032.728615:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:20:32.79 Created new window in existing browser session.
+Jan 04, 2018 11:38:07.59 [13530:13569:0104/113807.597526:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:38:07.65 Created new window in existing browser session.
+Jan 04, 2018 11:42:59.28 [14151:14190:0104/114259.282844:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:42:59.34 Created new window in existing browser session.
+Jan 04, 2018 11:47:59.92 [14613:14652:0104/114759.929471:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:47:59.97 Created new window in existing browser session.
+Jan 04, 2018 11:50:01.91 [14856:14896:0104/115001.917167:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:50:01.94 Created new window in existing browser session.
+Jan 04, 2018 11:50:18.96 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 11:52:27.15 [15172:15172:0104/115227.151067:ERROR:gles2_cmd_decoder.cc(5414)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Jan 04, 2018 11:57:11.48 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 11:57:11.49 [15942:15981:0104/115711.493162:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 11:57:11.54 Created new window in existing browser session.
+Jan 04, 2018 12:24:12.00 [15079:15079:0104/122412.000122:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 364
+Jan 04, 2018 12:25:55.88 [15079:15079:0104/122555.881044:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 367
+Jan 04, 2018 12:30:36.10 [15079:15079:0104/123036.104528:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 383
+Jan 04, 2018 12:34:10.95 [15079:15079:0104/123410.954231:ERROR:CONSOLE(405)] "Uncaught (in promise) TypeError: Cannot read property 'indexOf' of null", source: chrome-devtools://devtools/bundled/inspector.js (405)
+Jan 04, 2018 12:34:12.70 [15079:15079:0104/123412.701849:ERROR:CONSOLE(405)] "Uncaught (in promise) TypeError: Cannot read property 'indexOf' of null", source: chrome-devtools://devtools/bundled/inspector.js (405)
+Jan 04, 2018 12:34:13.39 [15079:15079:0104/123413.399551:ERROR:CONSOLE(405)] "Uncaught (in promise) TypeError: Cannot read property 'indexOf' of null", source: chrome-devtools://devtools/bundled/inspector.js (405)
+Jan 04, 2018 12:37:26.29 [15079:15079:0104/123726.296803:ERROR:CONSOLE(405)] "Uncaught (in promise) TypeError: Cannot read property 'indexOf' of null", source: chrome-devtools://devtools/bundled/inspector.js (405)
+
+Jan 04, 2018 13:44:20.19 NEW SESSION
+Jan 04, 2018 13:44:20.19 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 14:42:08.55 [4899:4938:0104/144208.559090:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 14:42:08.59 Created new window in existing browser session.
+Jan 04, 2018 14:49:27.94 [3503:3503:0104/144927.943888:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 136
+Jan 04, 2018 15:07:26.78 [6402:6442:0104/150726.780373:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 15:07:26.81 Created new window in existing browser session.
+Jan 04, 2018 15:31:44.62 [3549:3549:0104/153144.628859:ERROR:gles2_cmd_decoder.cc(5414)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Jan 04, 2018 15:33:54.65 [3503:3543:0104/153354.653492:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 04, 2018 15:52:47.68 [3503:3543:0104/155247.686047:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jan 04, 2018 15:59:12.78 [3503:3503:0104/155912.786168:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 476
+Jan 04, 2018 17:06:29.43 [3503:3503:0104/170629.431304:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 573
+Jan 04, 2018 17:06:30.49 [3503:3503:0104/170630.493112:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 578
+Jan 04, 2018 18:10:02.68 [3503:3543:0104/181002.687554:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 04, 2018 18:41:22.17 [3503:3543:0104/184122.176032:ERROR:ssl_client_socket_impl.cc(1091)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 04, 2018 18:42:24.97 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 04, 2018 18:42:25.05 Created new window in existing browser session.
+Jan 04, 2018 18:49:10.20 [15472:15511:0104/184910.202314:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 18:49:10.23 Created new window in existing browser session.
+Jan 04, 2018 18:50:51.97 [15867:15907:0104/185051.978900:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 18:50:52.07 Created new window in existing browser session.
+Jan 04, 2018 18:56:20.37 [16262:16302:0104/185620.369768:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 04, 2018 18:56:20.42 Created new window in existing browser session.
+
+Jan 05, 2018 10:37:16.81 NEW SESSION
+Jan 05, 2018 10:37:16.81 [6679:6718:0105/103716.809363:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 10:37:16.91 Created new window in existing browser session.
+Jan 05, 2018 11:09:36.46 [8912:8951:0105/110936.465349:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 11:09:36.51 Created new window in existing browser session.
+Jan 05, 2018 11:14:15.58 [9317:9357:0105/111415.587470:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 11:14:15.63 Created new window in existing browser session.
+Jan 05, 2018 11:14:34.19 [9492:9531:0105/111434.199169:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 11:14:34.21 Created new window in existing browser session.
+Jan 05, 2018 11:16:43.23 [9766:9806:0105/111643.237712:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 11:16:43.28 Created new window in existing browser session.
+Jan 05, 2018 11:25:17.27 [10282:10321:0105/112517.271674:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 11:25:17.31 Created new window in existing browser session.
+Jan 05, 2018 13:08:02.72 [14821:14860:0105/130802.728400:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 13:08:02.75 Created new window in existing browser session.
+Jan 05, 2018 13:12:22.15 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 05, 2018 13:12:22.27 Created new window in existing browser session.
+Jan 05, 2018 13:20:04.07 [15716:15756:0105/132004.077832:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 13:20:04.12 Created new window in existing browser session.
+Jan 05, 2018 13:33:22.23 [16399:16438:0105/133322.239259:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 13:33:22.29 Created new window in existing browser session.
+Jan 05, 2018 14:40:10.93 [18173:18213:0105/144010.936350:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 14:40:10.99 Created new window in existing browser session.
+Jan 05, 2018 14:41:47.60 [18470:18512:0105/144147.600741:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 14:41:47.64 Created new window in existing browser session.
+Jan 05, 2018 14:42:38.65 [18646:18685:0105/144238.653247:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 14:42:38.69 Created new window in existing browser session.
+Jan 05, 2018 14:47:53.92 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 05, 2018 14:49:35.71 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 05, 2018 14:54:21.08 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 05, 2018 17:32:23.90 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 05, 2018 17:33:17.10 [27115:27155:0105/173317.106506:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 17:33:17.16 Created new window in existing browser session.
+Jan 05, 2018 17:52:55.59 [30084:30124:0105/175255.590914:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 17:52:55.65 Created new window in existing browser session.
+Jan 05, 2018 18:43:16.91 [880:924:0105/184316.918938:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 18:43:16.94 Created new window in existing browser session.
+Jan 05, 2018 18:55:07.05 [1796:1836:0105/185507.056900:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 18:55:07.10 Created new window in existing browser session.
+Jan 05, 2018 19:07:07.99 [2825:2864:0105/190707.986911:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 19:07:08.03 Created new window in existing browser session.
+Jan 05, 2018 19:09:58.10 [3328:3371:0105/190958.104042:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 19:09:58.15 Created new window in existing browser session.
+Jan 05, 2018 19:14:37.91 [3881:3920:0105/191437.917292:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 19:14:37.96 Created new window in existing browser session.
+Jan 05, 2018 19:25:49.04 [4729:4769:0105/192549.048030:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 19:25:49.28 Created new window in existing browser session.
+Jan 05, 2018 19:35:03.08 [5507:5546:0105/193503.083006:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 05, 2018 19:35:03.13 Created new window in existing browser session.
+
+Jan 06, 2018 10:08:14.46 NEW SESSION
+Jan 06, 2018 10:08:14.46 [5392:5431:0106/100814.459350:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 10:08:14.55 Created new window in existing browser session.
+Jan 06, 2018 10:35:23.83 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 10:35:23.84 [6952:6991:0106/103523.847642:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 10:35:23.88 Created new window in existing browser session.
+Jan 06, 2018 11:08:21.59 [8598:8638:0106/110821.592558:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 11:08:21.64 Created new window in existing browser session.
+Jan 06, 2018 11:10:00.00 [8743:8783:0106/111000.006290:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 11:10:00.03 Created new window in existing browser session.
+Jan 06, 2018 11:23:04.39 [10034:10073:0106/112304.391107:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 11:23:04.42 Created new window in existing browser session.
+Jan 06, 2018 12:21:34.43 [11952:11994:0106/122134.435151:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 12:21:34.47 Created new window in existing browser session.
+Jan 06, 2018 12:23:47.98 [12244:12284:0106/122347.985082:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 12:23:48.01 Created new window in existing browser session.
+Jan 06, 2018 12:28:41.84 [12669:12709:0106/122841.840827:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 12:28:41.88 Created new window in existing browser session.
+Jan 06, 2018 12:38:53.25 [13674:13714:0106/123853.256980:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 12:38:53.30 Created new window in existing browser session.
+Jan 06, 2018 13:08:23.60 [15739:15778:0106/130823.601322:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 13:08:23.64 Created new window in existing browser session.
+Jan 06, 2018 13:31:19.07 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 13:32:02.63 [17248:17288:0106/133202.633052:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 13:32:02.66 Created new window in existing browser session.
+Jan 06, 2018 14:55:47.08 [19005:19045:0106/145547.087215:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 14:55:47.11 Created new window in existing browser session.
+Jan 06, 2018 15:16:03.01 [19821:19861:0106/151603.018135:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 15:16:03.03 Created new window in existing browser session.
+Jan 06, 2018 15:33:03.86 [20475:20515:0106/153303.868173:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 15:33:03.90 Created new window in existing browser session.
+Jan 06, 2018 15:34:08.84 [20722:20764:0106/153408.845108:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 15:34:08.85 Created new window in existing browser session.
+Jan 06, 2018 15:38:02.79 [16943:16943:0106/153802.791007:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 166
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.606922:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.606970:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607000:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607018:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607040:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607056:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607078:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607094:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607126:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607143:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607167:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607182:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607203:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607223:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607244:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607259:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607279:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607294:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607314:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607329:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607349:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607365:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607386:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607401:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607420:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607434:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607455:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607470:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607492:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607505:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607521:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:04.60 [17000:17000:0106/154304.607547:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.385912:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.385954:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.385981:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.385999:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386020:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386038:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386059:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386076:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386098:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386115:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386137:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386154:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386174:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386192:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386214:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386231:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386252:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386269:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386293:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386310:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386332:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386349:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.38 [17000:17000:0106/154305.386370:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386385:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386408:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386424:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386444:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386460:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386480:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386495:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386517:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386532:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386553:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386567:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386588:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386602:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386625:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386642:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x56adfae7e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386661:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:05.39 [17000:17000:0106/154305.386689:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x56adfae7e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 06, 2018 15:43:36.88 [16943:16943:0106/154336.884071:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 156
+Jan 06, 2018 15:59:13.29 [16943:16943:0106/155913.297261:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 231
+Jan 06, 2018 15:59:14.50 [16943:16943:0106/155914.504406:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 233
+Jan 06, 2018 16:00:44.66 [16943:16943:0106/160044.663375:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 235
+Jan 06, 2018 16:29:31.68 [16943:16943:0106/162931.682104:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 238
+Jan 06, 2018 16:40:27.05 [23539:23578:0106/164027.051855:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 16:40:27.09 Created new window in existing browser session.
+Jan 06, 2018 16:53:34.28 [16943:16943:0106/165334.288324:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 261
+
+Jan 06, 2018 17:13:12.02 NEW SESSION
+Jan 06, 2018 17:13:12.02 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 17:13:16.27 Created new window in existing browser session.
+Jan 06, 2018 17:40:20.21 [5470:5509:0106/174020.210110:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:40:20.26 Created new window in existing browser session.
+Jan 06, 2018 17:42:20.16 [5864:5903:0106/174220.167293:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:42:20.22 Created new window in existing browser session.
+Jan 06, 2018 17:46:37.58 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 17:46:37.60 [6375:6416:0106/174637.604018:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:46:37.64 Created new window in existing browser session.
+Jan 06, 2018 17:48:57.50 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 17:48:57.51 [6673:6713:0106/174857.511613:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:48:57.54 Created new window in existing browser session.
+Jan 06, 2018 17:50:28.90 [6892:6932:0106/175028.903584:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:50:28.93 Created new window in existing browser session.
+Jan 06, 2018 17:51:07.22 [7129:7168:0106/175107.228826:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:51:07.23 Created new window in existing browser session.
+Jan 06, 2018 17:53:10.12 [7441:7481:0106/175310.125827:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:53:10.15 Created new window in existing browser session.
+Jan 06, 2018 17:53:58.16 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 17:53:58.18 [7743:7783:0106/175358.185622:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:53:58.22 Created new window in existing browser session.
+Jan 06, 2018 17:57:46.35 [8253:8293:0106/175746.350813:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:57:46.39 Created new window in existing browser session.
+Jan 06, 2018 17:58:42.43 [8807:8846:0106/175842.437757:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:58:42.46 Created new window in existing browser session.
+Jan 06, 2018 17:59:27.65 [9016:9055:0106/175927.653013:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 17:59:27.66 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 17:59:27.68 Created new window in existing browser session.
+Jan 06, 2018 18:07:37.48 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 18:07:37.50 [9738:9777:0106/180737.500048:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 06, 2018 18:07:37.53 Created new window in existing browser session.
+Jan 06, 2018 19:12:44.85 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 06, 2018 19:12:44.93 Created new window in existing browser session.
+
+Jan 08, 2018 09:58:56.70 NEW SESSION
+Jan 08, 2018 09:58:56.70 [5212:5252:0108/095856.705046:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 08, 2018 09:58:56.82 Created new window in existing browser session.
+Jan 08, 2018 11:08:07.85 [9759:9799:0108/110807.851909:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 08, 2018 11:08:07.90 Created new window in existing browser session.
+Jan 08, 2018 12:23:24.55 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 08, 2018 12:23:24.57 [13908:13947:0108/122324.571354:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 08, 2018 12:23:24.62 Created new window in existing browser session.
+Jan 08, 2018 13:24:50.66 [18234:18273:0108/132450.668395:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 08, 2018 13:24:50.71 Created new window in existing browser session.
+Jan 08, 2018 14:41:00.10 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 08, 2018 15:22:12.92 [19766:19766:0108/152212.920029:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 134
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955699:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955745:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955771:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955787:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955808:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955823:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955845:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955860:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955884:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955900:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955920:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955936:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955955:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955973:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.955995:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956013:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956034:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956051:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956072:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956089:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956109:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956125:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956147:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956165:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956213:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956233:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956259:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956279:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956302:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956320:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956343:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956360:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956415:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956456:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956501:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956541:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956585:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956628:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956678:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956720:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956765:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956805:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956849:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956890:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956934:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.956975:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.957020:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:31:21.95 [19816:19816:0108/153121.957067:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:33:53.19 [19816:19816:0108/153353.192498:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:33:53.19 [19816:19816:0108/153353.192545:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:33:53.19 [19816:19816:0108/153353.192574:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x26dd79d13e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 15:33:53.19 [19816:19816:0108/153353.192595:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x26dd79d13e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 15:41:39.74 [19766:19766:0108/154139.743653:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 220
+Jan 08, 2018 15:42:35.10 [19766:19766:0108/154235.108662:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 223
+Jan 08, 2018 15:46:59.81 [19766:19766:0108/154659.813783:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 273
+Jan 08, 2018 15:49:19.27 [19766:19766:0108/154919.270735:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 310
+
+Jan 08, 2018 16:01:24.51 NEW SESSION
+Jan 08, 2018 16:01:24.51 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 08, 2018 16:01:24.58 Created new window in existing browser session.
+Jan 08, 2018 16:16:30.89 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 08, 2018 16:48:01.71 [27234:27234:0108/164801.711878:ERROR:gles2_cmd_decoder.cc(5414)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Jan 08, 2018 16:50:24.49 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 08, 2018 16:50:24.56 Created new window in existing browser session.
+Jan 08, 2018 16:54:30.58 [27161:27161:0108/165430.589202:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 141
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771218:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771258:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771295:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771322:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771345:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771363:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771385:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771409:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771433:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771451:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771472:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771489:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771510:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771526:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771602:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771647:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771693:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771739:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771787:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771807:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771829:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771846:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771903:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.771944:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772015:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772037:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772066:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772082:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772103:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772121:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772142:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772184:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772210:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772227:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772248:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772266:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772288:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772309:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772338:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772357:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772380:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.772399:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776733:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776762:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776791:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776811:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776836:ERROR:gles2_cmd_decoder.cc(17991)] [.DisplayCompositor-0x27fce91f1600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Jan 08, 2018 16:54:35.77 [27234:27234:0108/165435.776854:ERROR:gles2_cmd_decoder.cc(9890)] [.DisplayCompositor-0x27fce91f1600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Jan 08, 2018 16:57:15.80 [27161:27161:0108/165715.806570:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 155
+Jan 08, 2018 16:57:17.03 [27161:27161:0108/165717.036962:ERROR:navigation_entry_screenshot_manager.cc(135)] Invalid entry with unique id: 160
+
+Jan 09, 2018 09:39:20.68 NEW SESSION
+Jan 09, 2018 09:39:20.68 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 09, 2018 09:39:20.70 [4074:4116:0109/093920.702362:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 09, 2018 09:39:20.77 Created new window in existing browser session.
+Jan 09, 2018 18:28:28.43 [17377:17416:0109/182828.436409:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 09, 2018 18:28:28.47 Created new window in existing browser session.
+Jan 09, 2018 18:47:50.74 [18817:18856:0109/184750.742639:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 09, 2018 18:47:50.77 Created new window in existing browser session.
+Jan 09, 2018 18:59:18.46 [19968:20008:0109/185918.467890:ERROR:browser_gpu_channel_host_factory.cc(108)] Failed to launch GPU process.
+Jan 09, 2018 18:59:18.46 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Jan 09, 2018 18:59:18.49 Created new window in existing browser session.

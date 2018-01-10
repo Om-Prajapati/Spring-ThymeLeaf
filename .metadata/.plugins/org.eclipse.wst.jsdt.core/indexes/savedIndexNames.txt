@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/bridgelabz/Spring-ThymeLeaf/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4018348714.index
+2410402216.index
+3243216412.index
+1672273180.index
+2193342526.index
+1998309247.index

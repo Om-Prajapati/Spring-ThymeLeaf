@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Login</title>
+<link th:href="@{/css/home.css}" href="/css/home.css"  rel="stylesheet" type="text/css"  />
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body id="login-abc">
+
+<div class="container">
+	<div class="row">
+    	<form autocomplete="off" action="#" th:action="@{/loginUser}" th:object="${user}" method="post" class="form-signin mg-btm" role="form">
+			<div class="social-box">
+				<div class="row mg-btm">
+	             <div class="col-md-12">
+	                <a th:href="${'facebookConnection'}" class="btn">
+	                  <i class="icon-facebook"></i>    Login with Facebook
+	                </a>
+				</div>
+				</div>
+				<div class="row">
+				<div class="col-md-12">
+	                <a th:href="${'googleConnection'}" class="btn" >
+	                  <i class="icon-google"></i>    Login with Google
+	                </a>
+	            </div>
+	          </div>
+			</div>
+		<div class="main">	
+       
+			<input type="text" th:field="*{email}" placeholder="Enter the email" class="form-control" />
+	        <input type="password" th:field="*{password}" placeholder="Enter the password" class="form-control" />
+			<br />
+			<button type="submit" class="btn btn-danger" style="padding: 10px;">Login</button>
+			<span class="clearfix"></span>	
+        </div>
+		<div class="login-footer">
+				<div class="row">
+	                  <div class="col-xs-6 col-md-6">
+	                      <div class="left-section">
+							<a th:href="@{/}">Forgot your password?</a>
+							<br />
+							<a th:href="@{/registration}">Sign up now</a>
+						</div>
+	                  </div>
+	             </div>	
+		</div>
+      </form>
+	</div>
+</div>
+
+</body>
+</html>

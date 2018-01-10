@@ -1,0 +1,6 @@
+package com.springthymeleaf.dao;
+
+public interface DocDetails {
+
+	public 
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="doc" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="doc"/>
+			<item value="getUrlMetaData"/>
+			<item value="starter"/>
+			<item value="JmsMessageSendingService"/>
+			<item value="jjwt"/>
+			<item value="mail"/>
+			<item value="jackson"/>
+			<item value="jackson-core"/>
+			<item value="json"/>
+			<item value="image"/>
+			<item value="col"/>
+			<item value="colo"/>
+			<item value="open"/>
+			<item value="updateNote"/>
+			<item value="jwt"/>
+		</list>
+		<list key="replacehistory">
+			<item value="taxDetailsById"/>
+			<item value="sessionFactory"/>
+			<item value="&lt;version&gt;${spring.version}&lt;/version&gt;"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="337" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="455" key="DIALOG_HEIGHT"/>
+		<item value="143" key="DIALOG_X_ORIGIN"/>
+		<item value="72" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

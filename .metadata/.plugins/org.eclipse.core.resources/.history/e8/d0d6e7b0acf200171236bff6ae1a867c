@@ -1,0 +1,44 @@
+package com.springthymeleaf.controller;
+
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.springthymeleaf.model.DocDaitails;
+import com.springthymeleaf.model.Note;
+import com.springthymeleaf.model.User;
+import com.springthymeleaf.service.NoteService;
+import com.springthymeleaf.service.UserService;
+
+public class PdfGenarator {
+
+	@Autowired
+	UserService userService;
+	
+	@Autowired
+	NoteService noteService;
+	
+	@RequestMapping(value="/docdetails")
+	public ModelAndView docDetails(HttpServletRequest request)
+	{
+		int userId = (int) request.getAttribute("userId");
+		User user = userService.getUserById(userId);
+		
+		ModelAndView modelAndView = new ModelAndView();
+		
+		modelAndView.setViewName("doc");
+		modelAndView.addObject("user", user);
+		
+		Note note = new Note();
+		modelAndView.addObject("note", note);
+		
+		List<DocDaitails> allDoc = noteService.getAllDoc();
+		modelAndView.addObject("allDoc", allDoc);
+		return modelAndView;
+	}
+	
+}

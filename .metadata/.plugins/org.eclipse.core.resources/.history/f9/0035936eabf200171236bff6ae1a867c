@@ -1,0 +1,5 @@
+package com.springthymeleaf.controller;
+
+public class PdfGenaratorUtil {
+
+}

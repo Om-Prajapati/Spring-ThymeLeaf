@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link th:href="@{/css/home.css}" href="/css/home.css"  rel="stylesheet" type="text/css"  />
+
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+<script type="text/javascript" th:inline="javascript" th:src="@{/js/scriptFile.js}"></script>
+
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>ToDo</title>
+</head>
+<body>
+
+	<div th:fragment="navbar" class="navbar navbar-fixed-top" style="background-color: #ffbb33">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<div class="navbar-inner">
+						
+						  <a class="navbar-brand" onclick="toogleNav()">
+							<span style="font-size: 25px; margin-left: 50%; cursor: pointer">&#9776;</span>
+ 						  </a>
+   						  <a class="navbar-brand">Google Keep</a>
+   						 
+						  <button class="navbar-brand" type="button" style="float: right">
+							<a href="#" th:href="@{/logout}">Logout</a>
+						  </button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-12 sidebar-nav">
+			<div class="sideNav" id="sideNavContent">
+				<ul class="nav nav-list">
+					<li class="nav-header"></li>
+					<li><a>Notes</a></li>
+					<li><a>Reminder</a></li>
+					<li><a>Trash</a></li>
+					<li><a>Archive</a></li>
+					<li><a>Activity Log</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</body>
+</html>
